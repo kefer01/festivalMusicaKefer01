@@ -1,0 +1,25 @@
+{
+  "name": "festivalmusica_kefer",
+  "version": "1.0.0",
+  "description": "Aprendiendo Gulp y SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kefer01/festivalMusicaKefer01.git"
+  },
+  "keywords": [
+    "SASS",
+    "GULP",
+    "WEB",
+    "DESIGN"
+  ],
+  "author": "Kevin Fernando Oliva Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kefer01/festivalMusicaKefer01/issues"
+  },
+  "homepage": "https://github.com/kefer01/festivalMusicaKefer01#readme"
+}
